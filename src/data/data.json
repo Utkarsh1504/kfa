@@ -1,0 +1,202 @@
+[
+  {
+    "brand_name": "Wix",
+    "brand_logo": "/src/assets/wix.png",
+    "brand_chat": 2,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "automation",
+        "color": "purple"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-1.png",
+      "/src/assets/mem-2.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Shopify",
+    "brand_logo": "/src/assets/shopify.jpg",
+    "brand_chat": 0,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "Ecommerce",
+        "color": "pink"
+      },
+      {
+        "label": "B2B",
+        "color": "amber"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-3.png",
+      "/src/assets/mem-2.png",
+      "/src/assets/mem-4.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "in 6 hours"
+  },
+  {
+    "brand_name": "MailChimp",
+    "brand_logo": "/src/assets/mailchimp.jpg",
+    "brand_chat": 0,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "SAAS",
+        "color": "green"
+      },
+      {
+        "label": "Mobile",
+        "color": "amber"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-4.png",
+      "/src/assets/mem-3.png",
+      "/src/assets/mem-1.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "Tomorrow"
+  },
+  {
+    "brand_name": "Disney",
+    "brand_logo": "/src/assets/disney.png",
+    "brand_chat": 0,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "B2B",
+        "color": "amber"
+      },
+      {
+        "label": "B2C",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-1.png",
+      "/src/assets/mem-3.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "next month"
+  },
+  {
+    "brand_name": "Intercom",
+    "brand_logo": "/src/assets/mailchimp.jpg",
+    "brand_chat": 9,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "Technology",
+        "color": "blue"
+      },
+      {
+        "label": "SAAS",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-4.png",
+      "/src/assets/mem-2.png",
+      "/src/assets/mem-3.png",
+      "/src/assets/mem-1.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Google",
+    "brand_logo": "/src/assets/google.png",
+    "brand_chat": 5,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "Finance",
+        "color": "purple"
+      },
+      {
+        "label": "Automation",
+        "color": "orange"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-1.png",
+      "/src/assets/mem-3.png",
+      "/src/assets/mem-2.png",
+      "/src/assets/mem-4.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "in 30 minutes"
+  },
+  {
+    "brand_name": "Evernote",
+    "brand_logo": "/src/assets/evernote.png",
+    "brand_chat": 0,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "transportation",
+        "color": "amber"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-3.png",
+      "/src/assets/mem-2.png",
+      "/src/assets/mem-4.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "in 1 hour"
+  },
+  {
+    "brand_name": "Microsoft",
+    "brand_logo": "/src/assets/microsoft.png",
+    "brand_chat": 2,
+    "description": "lorem ipsum dolor",
+    "categories": [
+      {
+        "label": "Publishing",
+        "color": "pink"
+      },
+      {
+        "label": "B2C",
+        "color": "green"
+      }
+    ],
+    "members": [
+      "/src/assets/mem-1.png",
+      "/src/assets/mem-2.png",
+      "/src/assets/mem-4.png"
+    ],
+    "tags": [
+      "UX",
+      "Digital"
+    ],
+    "time": "Tomorrow"
+  }
+]
